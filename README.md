@@ -4,7 +4,7 @@
 
 I’m a Class 12 student learning robotics, embedded systems, and programming by building small but real projects. I’m early in the journey, curious, and focused on understanding how software and hardware work together. I’m deeply fascinated by technology.
 
----
+
 
 ## 🧠 About Me
 
@@ -16,7 +16,7 @@ I’m a Class 12 student learning robotics, embedded systems, and programming by
 
 * Interested in how operating systems, automation, and robots actually work
 
----
+
 
 ## 🔧 Skills (Learning Stage)
 
@@ -45,7 +45,7 @@ I’m a Class 12 student learning robotics, embedded systems, and programming by
 
 * Git & GitHub (learning)
 
----
+
 
 ## 🚀 Highlighting Projects
 
@@ -69,7 +69,7 @@ An experimental project to understand multitasking on microcontrollers.
 * Learning async programming concepts
 * Not production-ready, purely educational
 
----
+
 
 ## 📈 Currently Learning
 
@@ -78,19 +78,19 @@ An experimental project to understand multitasking on microcontrollers.
 * Beginner OS concepts
 * Writing cleaner, more readable code
 
----
+
 
 ## 🎯 Goal
 
 To become genuinely good at robotics and systems engineering over time, starting from fundamentals and building upward.
 
----
+
 
 ## 📫 Connect
 
 * LinkedIn: [www.linkedin.com/in/ayushman-sarab-2294b634a/](https://www.linkedin.com/in/ayushman-sarab-2294b634a/)
 * leetcode: [leetcode.com/u/sarabayushman/](https://leetcode.com/u/sarabayushman/)
 
----
+
 
 *Learning in public. One project at a time.*
